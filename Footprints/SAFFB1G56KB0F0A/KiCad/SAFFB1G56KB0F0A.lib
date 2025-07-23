@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SAFFB1G56KB0F0A
+#/957340/1328528/2.50/5/4/Filter
+DEF SAFFB1G56KB0F0A FL 0 30 Y Y 1 F N
+F0 "FL" 2250 300 50 H V L CNN
+F1 "SAFFB1G56KB0F0A" 2250 200 50 H V L CNN
+F2 "SAFFB1G56KB0F0A" 2250 100 50 H I L CNN
+F3 "http://www.murata.com/ja-jp/products/productdata/8797683712030/DS-SAFFB1G56KB0F0A.pdf?1487043018000" 2250 0 50 H I L CNN
+F4 "SAW Single Filter" 2250 -100 50 H I L CNN "Description"
+F5 "" 2250 -200 50 H I L CNN "Height"
+F6 "Murata Electronics" 2250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SAFFB1G56KB0F0A" 2250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 2250 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 2250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SAFFB1G56KB0F0A" 2250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/saffb1g56kb0f0a/murata-manufacturing" 2250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X UNBALANCED_PORT_1 1 0 0 200 R 50 50 0 0 P
+X GND_1 2 0 -100 200 R 50 50 0 0 P
+X GND_2 3 0 -200 200 R 50 50 0 0 P
+X UNBALANCED_PORT_2 4 2400 0 200 L 50 50 0 0 P
+X GND_3 5 2400 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 2200 100 2200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

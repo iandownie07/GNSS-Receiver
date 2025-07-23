@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX-M10S-00B")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MAX-M10S-00B.kicad_sym")(options "")(descr ""))
+  (lib (name "CGGBP.35.6.A.02")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CGGBP.35.6.A.02.kicad_sym")(options "")(descr ""))
+  (lib (name "SAWFIlterMurata")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SAWFIlterMurata.kicad_sym")(options "")(descr ""))
+  (lib (name "B20B-XADSS-N-A-LF-SN-")(type "KiCad")(uri "${KIPRJMOD}/Symbols/B20B-XADSS-N-A-LF-SN-.kicad_sym")(options "")(descr ""))
+  (lib (name "B20B-PHDSS_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Symbols/B20B-PHDSS_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "SS4-10-3.50-X-D-K-TR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SS4-10-3.50-X-D-K-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "FX20-40P-0.5SV15")(type "KiCad")(uri "${KIPRJMOD}/Symbols/FX20-40P-0.5SV15.kicad_sym")(options "")(descr ""))
+  (lib (name "ML414H_IV01E")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ML414H_IV01E.kicad_sym")(options "")(descr ""))
+)

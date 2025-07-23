@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CGGBP.35.6.A.02")(type "KiCad")(uri "${KIPRJMOD}/Footprints/CGGBP.35.6.A.02")(options "")(descr ""))
+  (lib (name "MAX-M10S-00B")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MAX-M10S-00B")(options "")(descr ""))
+  (lib (name "SAFFB1G56KB0F0A")(type "KiCad")(uri "${KIPRJMOD}/Footprints/SAFFB1G56KB0F0A")(options "")(descr ""))
+  (lib (name "B20B-XADSS-N-A-LF-SN-")(type "KiCad")(uri "${KIPRJMOD}/Footprints/B20B-XADSS-N-A-LF-SN-")(options "")(descr ""))
+  (lib (name "B20B-PHDSS_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/Footprints/B20B-PHDSS_LF__SN_")(options "")(descr ""))
+  (lib (name "IRIDIUM_9603")(type "KiCad")(uri "${KIPRJMOD}/Footprints/IRIDIUM_9603")(options "")(descr ""))
+  (lib (name "SS4-10-3.50-X-D-K-TR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/SS4-10-3.50-X-D-K-TR")(options "")(descr ""))
+  (lib (name "FX20-40P-0.5SV15")(type "KiCad")(uri "${KIPRJMOD}/Footprints/FX20-40P-0.5SV15")(options "")(descr ""))
+  (lib (name "ML414H_IV01E")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ML414H_IV01E")(options "")(descr ""))
+  (lib (name "ul_SS4-10-3-50-L-D-K-TR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ul_SS4-10-3-50-L-D-K-TR")(options "")(descr ""))
+)
